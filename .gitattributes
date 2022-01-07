@@ -4,3 +4,5 @@
 *.pak filter=lfs diff=lfs merge=lfs -text
 GKostorz_RollOut-WindowsNoEditor filter=lfs diff=lfs merge=lfs -text
 GKostorz_RollOut-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+'*.zip' filter=lfs diff=lfs merge=lfs -text
+'RollOut.zip' filter=lfs diff=lfs merge=lfs -text
