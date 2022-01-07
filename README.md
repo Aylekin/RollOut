@@ -13,7 +13,7 @@ Celem gry jest wcielenie się w rolę kuli uwięzionej na wyspie i dotarcie do s
 Repozytorium zawiera folder o nazwie RollOut w którym mieści się plik rozruchowy gry o nazwie GKostorz_RollOut.exe.
 
 
-![screen1](/Screens/menu1.jpg)
-![screen2](/Screens/menu2.jpg)
-![screen3](/Screens/gra_poczatek.jpg)
-![screen4](/Screens/gra_przyciaganie.jpg)
+![screen1](/Screens/menu1.JPG)
+![screen2](/Screens/menu2.JPG)
+![screen3](/Screens/gra_poczatek.JPG)
+![screen4](/Screens/gra_przyciaganie.JPG)
