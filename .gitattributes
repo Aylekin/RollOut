@@ -2,3 +2,5 @@
 '*.csv' filter=lfs diff=lfs merge=lfs -text
 '*.pak' filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
+GKostorz_RollOut-WindowsNoEditor filter=lfs diff=lfs merge=lfs -text
+GKostorz_RollOut-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
